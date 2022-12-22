@@ -13,10 +13,13 @@ module.exports = {
      * }], {});
     */
 
+    let [fotos, fotos_metadata] = await queryInterface.sequelize.query('SELECT id FROM fotos')
+    let [etiquetas, etiquetas_metadata] = await queryInterface.sequelize.query('SELECT id FROM etiquetas')
+
     await queryInterface.bulkInsert('fotoetiquetas', [
-      {  foto_id: 1, etiqueta_id: 1, createdAt: new Date(), updatedAt: new Date()  },
-      {  foto_id: 1, etiqueta_id: 2, createdAt: new Date(), updatedAt: new Date()  },
-      {  foto_id: 2, etiqueta_id: 2, createdAt: new Date(), updatedAt: new Date()  }
+      {  foto_id: fotos[0].id, etiqueta_id: etiquetas[0].id, createdAt: new Date(), updatedAt: new Date()  },
+      {  foto_id: fotos[0].id, etiqueta_id: etiquetas[1].id, createdAt: new Date(), updatedAt: new Date()  },
+      {  foto_id: fotos[1].id, etiqueta_id: etiquetas[1].id, createdAt: new Date(), updatedAt: new Date()  }
     ], {}); 
   },
 
