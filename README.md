@@ -78,7 +78,7 @@ npm test                  #Ejecute los tests
 * **[`hito1-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito1-api)** Configuración básica de un proyecto Express, según las instrucciones de [Express - Bases](https://dawfiec.github.io/DAWM/tutoriales/express_bases.html).
 * **[`hito2-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito2-api)** Uso básico del ORM del modelo FOTO y del modelo CATEGORIA, según las instrucciones de [Express - ORM (Básico)](https://dawfiec.github.io/DAWM/tutoriales/express_ormbasico.html).
 * **[`hito3-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito3-api)** Uso intermedio del ORM al modificar la relación entre los modelos FOTO y CATEGORIA, según las instrucciones de [Express - ORM (Intermedio)](https://dawfiec.github.io/DAWM/tutoriales/express_ormintermedio.html).
-* **[`hito4-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito4-api)** TDD con Jest: Servicios, según las instrucciones de [Capítulo 05/Ejercicio02](https://github.com/DAWFIEC/DAWM/tree/main/Cap%C3%ADtulo%2005/ejercicio02).
+* **[`hito4-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito4-api)** TDD con Jest: Foto, Etiqueta y Fotoetiqueta [Capítulo 05/Ejercicio02](https://github.com/DAWFIEC/DAWM/tree/main/Cap%C3%ADtulo%2005/ejercicio02).
 * **[`hito5-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito5-api)** Uso de parámetros de consulta y parámetros de ruta, según las instrucciones de [Express - Parámetros de consulta y Parámetros de ruta](https://dawfiec.github.io/DAWM/tutoriales/express_pcpr.html).
 
 #### Instalación y Ejecución
