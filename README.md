@@ -81,7 +81,7 @@ npm test                  #Ejecute los tests
 * **[`hito4-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito4-api)** TDD con Jest: Foto, Etiqueta y Fotoetiqueta, según las instrucciones de [Capítulo 05/Ejercicio02](https://github.com/DAWFIEC/DAWM/tree/main/Cap%C3%ADtulo%2005/ejercicio02).
 * **[`hito5-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito5-api)** Uso de parámetros de consulta y parámetros de ruta, según las instrucciones de [Express - Parámetros de consulta y Parámetros de ruta](https://dawfiec.github.io/DAWM/tutoriales/express_pcpr.html).
 * **[`hito6-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito6-api)** TDD con Jest: Etiqueta con uso de parámetros de consulta y parámetros de ruta, según las instrucciones de [Capítulo 05/Ejercicio03](https://github.com/DAWFIEC/DAWM/tree/main/Cap%C3%ADtulo%2005/ejercicio03).
-* **[`hito7-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito7-api)** Implementación del API REST modelo ALBUM, según las instrucciones de [Express - REST](https://dawfiec.github.io/DAWM/tutoriales/express_rest.html).
+* **[`hito7-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito7-api)** Implementación del API REST del modelo ALBUM, según las instrucciones de [Express - REST](https://dawfiec.github.io/DAWM/tutoriales/express_rest.html).
 
 #### Instalación y Ejecución
 
