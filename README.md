@@ -114,6 +114,28 @@ npm i                     #Instale las dependencias
 npm test                  #Ejecute los tests
 ```
 
+### API2
+
+#### Hitos
+
+* **[`hito1-api2`](https://github.com/DAWFIEC/DAWM-apps/tree/hito1-api2)** Configuración básica de un proyecto Express, según las instrucciones de [Express - Bases](https://dawfiec.github.io/DAWM/tutoriales/express_bases.html).
+* **[`hito2-api2`](https://github.com/DAWFIEC/DAWM-apps/tree/hito2-api2)** Uso básico del ODM, según las instrucciones de [Express - ODM (Básico)](https://dawfiec.github.io/DAWM/tutoriales/express_odmbasico.html).
+
+#### Instalación y Ejecución
+
+```
+cd DAWM-apps              #Ingrese a la carpeta de las aplicaciones
+git switch hito<N>-api2   #Cámbiese a la rama deseada
+cd album/api2             #Ingrese a la carpeta del proyecto
+npm i                     #Instale las dependencias
+
+#Modifique la configuración para la conexión con la base de datos no relacional
+#Levante el servidor
+
+npm start                 #Servidor predeterminado de Express
+npm run devstart          #Servidor con detección de cambios (nodemon)
+```
+
 ## SPA
 
 ### Cliente
