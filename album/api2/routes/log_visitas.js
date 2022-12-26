@@ -20,11 +20,11 @@ router.get('/findAll/json', function(req, res, next) {
 });
 
 
-router.get('/findById/:id/json', function(req, res, next) {
+router.get('/findById/:_id/json', function(req, res, next) {
 
-  var id = req.params.id;
+  var _id = req.params._id;
 
-  models.log_visitas.findOne({_id: id}, function (err, log_visitas) {
+  models.log_visitas.findOne({_id: _id}, function (err, response) {
       if (err) {
           return res.status(500).json({
               message: 'Error when getting log_visitas.',
@@ -32,13 +32,13 @@ router.get('/findById/:id/json', function(req, res, next) {
           });
       }
 
-      if (!log_visitas) {
+      if (!response) {
           return res.status(404).json({
               message: 'No such log_visitas'
           });
       }
 
-      return res.json(log_visitas);
+      return res.json(response);
   });
 
 });
