@@ -48,6 +48,7 @@ npm test                  #Ejecute los tests
 * **[`hito1-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito1-admin)** Configuración básica de un proyecto Express, según las instrucciones de [Express - Bases](https://dawfiec.github.io/DAWM/tutoriales/express_bases.html).
 * **[`hito2-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito2-admin)** Incorpora una plantilla de Bootstrap en un proyecto Express, según las instrucciones de [Express - Bootstrap](https://dawfiec.github.io/DAWM/tutoriales/express_bootstrap.html).
 * **[`hito3-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito3-admin)** Reutilización de componentes, según las instrucciones de [Express - Layouts y Partials](https://dawfiec.github.io/DAWM/tutoriales/express_partials.html).
+* **[`hito4-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito4-admin)** Comunicación con la aplicación API, según las instrucciones de [Guía 18](https://dawfiec.github.io/DAWM/guias/guia18.html).
 
 #### Instalación y Ejecución
 
@@ -77,7 +78,7 @@ npm test                  #Ejecute los tests
 
 * **[`hito1-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito1-api)** Configuración básica de un proyecto Express, según las instrucciones de [Express - Bases](https://dawfiec.github.io/DAWM/tutoriales/express_bases.html).
 * **[`hito2-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito2-api)** Uso básico del ORM del modelo FOTO y del modelo CATEGORIA, según las instrucciones de [Express - ORM (Básico)](https://dawfiec.github.io/DAWM/tutoriales/express_ormbasico.html).
-* **[`hito3-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito3-api)** Uso intermedio del ORM al modificar la relación entre los modelos FOTO y CATEGORIA, según las instrucciones de [Express - ORM (Intermedio)](https://dawfiec.github.io/DAWM/tutoriales/express_ormintermedio.html) y [Guía 18](https://dawfiec.github.io/DAWM/guias/guia18.html)..
+* **[`hito3-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito3-api)** Uso intermedio del ORM al modificar la relación entre los modelos FOTO y CATEGORIA, e imágenes en la carpeta public; según las instrucciones de [Express - ORM (Intermedio)](https://dawfiec.github.io/DAWM/tutoriales/express_ormintermedio.html) y [Guía 18](https://dawfiec.github.io/DAWM/guias/guia18.html).
 * **[`hito4-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito4-api)** TDD con Jest: FOTO, ETIQUETA y FOTOETIQUETA, según las instrucciones de [Capítulo 05/Ejercicio02](https://github.com/DAWFIEC/DAWM/tree/main/Cap%C3%ADtulo%2005/ejercicio02).
 * **[`hito5-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito5-api)** Uso de parámetros de consulta y parámetros de ruta, según las instrucciones de [Express - Parámetros de consulta y Parámetros de ruta](https://dawfiec.github.io/DAWM/tutoriales/express_pcpr.html).
 * **[`hito6-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito6-api)** TDD con Jest: Etiqueta con uso de parámetros de consulta y parámetros de ruta, según las instrucciones de [Capítulo 05/Ejercicio03](https://github.com/DAWFIEC/DAWM/tree/main/Cap%C3%ADtulo%2005/ejercicio03).
