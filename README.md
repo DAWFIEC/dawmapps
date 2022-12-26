@@ -71,7 +71,7 @@ npm i                     #Instale las dependencias
 npm test                  #Ejecute los tests
 ```
 
-### API
+### API (dbrms)
 
 #### Hitos
 
@@ -114,7 +114,7 @@ npm i                     #Instale las dependencias
 npm test                  #Ejecute los tests
 ```
 
-### API2
+### API2 (nodbrms)
 
 #### Hitos
 
