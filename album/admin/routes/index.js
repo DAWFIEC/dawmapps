@@ -2,6 +2,10 @@ var express = require('express');
 const axios = require('axios')
 var router = express.Router();
 
+const multer  = require('multer')
+const FormData = require('form-data');
+const upload = multer()
+
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
@@ -29,23 +33,27 @@ router.get('/photos/add', function(req, res, next) {
   res.render('fotos_formulario', { title: 'Express' });
 });
 
-router.post('/photos/save', async function(req, res, next) {  
+router.post('/photos/save', upload.single('route'), async function(req, res, next) {  
 
   let { title, description, rate } = req.body
+  let { buffer, originalname } = req.file
+
+  let form = new FormData()
+  form.append("titulo", title)
+  form.append("descripcion", description)
+  form.append("calificacion", rate)
+  form.append("ruta", originalname)
+  form.append("archivo", buffer, originalname)
 
   const URL = 'http://localhost:4444/rest/fotos/save'
   const config = {
+    headers: form.getHeaders(),
     proxy: {
       host: 'localhost',
       port: 4444
     }
   }
-  const response = await axios.post(URL, {
-        titulo:title, 
-        descripcion: description, 
-        calificacion: rate,
-        ruta: ''
-    }, config);
+  const response = await axios.post(URL, form, config);
 
 
   if(response.status == '200' && response.statusText == 'OK') {
