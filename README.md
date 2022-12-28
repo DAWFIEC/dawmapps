@@ -50,7 +50,7 @@ npm test                  #Ejecute los tests
 * **[`hito3-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito3-admin)** Reutilización de componentes, según las instrucciones de [Express - Layouts y Partials](https://dawfiec.github.io/DAWM/tutoriales/express_partials.html).
 * **[`hito4-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito4-admin)** Comunicación con la aplicación API, según las instrucciones de [Guía 18](https://dawfiec.github.io/DAWM/guias/guia18.html).
 * **[`hito5-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito5-admin)** Uso de formularios para el envío de datos al API , según las instrucciones de [Express - Formularios I](https://dawfiec.github.io/DAWM/tutoriales/express_forms1.html).
-* **[`hito6-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito6-admin)** Uso de formularios para cargar archivos al API , según las instrucciones de [Express - Formularios II](https://dawfiec.github.io/DAWM/tutoriales/express_forms2.html).
+* **[`hito6-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito6-admin)** Uso de formularios para cargar un archivo en el API , según las instrucciones de [Express - Formularios II](https://dawfiec.github.io/DAWM/tutoriales/express_forms2.html).
 
 #### Instalación y Ejecución
 
@@ -85,6 +85,7 @@ npm test                  #Ejecute los tests
 * **[`hito5-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito5-api)** Uso de parámetros de consulta y parámetros de ruta, según las instrucciones de [Express - Parámetros de consulta y Parámetros de ruta](https://dawfiec.github.io/DAWM/tutoriales/express_pcpr.html).
 * **[`hito6-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito6-api)** TDD con Jest: Etiqueta con uso de parámetros de consulta y parámetros de ruta, según las instrucciones de [Capítulo 05/Ejercicio03](https://github.com/DAWFIEC/DAWM/tree/main/Cap%C3%ADtulo%2005/ejercicio03).
 * **[`hito7-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito7-api)** Implementación del API REST del modelo FOTO, según las instrucciones de [Express - REST](https://dawfiec.github.io/DAWM/tutoriales/express_rest.html).
+* **[`hito8-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito8-api)** Carga de archivo, según las instrucciones de [Express - Formularios II](https://dawfiec.github.io/DAWM/tutoriales/express_forms2.html).
 
 #### Instalación y Ejecución
 
