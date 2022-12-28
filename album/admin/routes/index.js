@@ -25,4 +25,36 @@ router.get('/photos', async function(req, res, next) {
   res.render('fotos', { title: 'Fotos', fotos: response.data });
 })
 
+router.get('/photos/add', function(req, res, next) {
+  res.render('fotos_formulario', { title: 'Express' });
+});
+
+router.post('/photos/save', async function(req, res, next) {  
+
+  let { title, description, rate } = req.body
+
+  const URL = 'http://localhost:4444/rest/fotos/save'
+  const config = {
+    proxy: {
+      host: 'localhost',
+      port: 4444
+    }
+  }
+  const response = await axios.post(URL, {
+        titulo:title, 
+        descripcion: description, 
+        calificacion: rate,
+        ruta: ''
+    }, config);
+
+
+  if(response.status == '200' && response.statusText == 'OK') {
+    res.redirect('/photos')
+  } else {
+    res.redirect('/') 
+  }
+
+    
+});
+
 module.exports = router;
