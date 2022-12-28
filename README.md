@@ -50,6 +50,7 @@ npm test                  #Ejecute los tests
 * **[`hito3-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito3-admin)** Reutilización de componentes, según las instrucciones de [Express - Layouts y Partials](https://dawfiec.github.io/DAWM/tutoriales/express_partials.html).
 * **[`hito4-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito4-admin)** Comunicación con la aplicación API, según las instrucciones de [Guía 18](https://dawfiec.github.io/DAWM/guias/guia18.html).
 * **[`hito5-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito5-admin)** Uso de formularios para el envío de datos al API , según las instrucciones de [Express - Formularios I](https://dawfiec.github.io/DAWM/tutoriales/express_forms1.html).
+* **[`hito6-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito6-admin)** Uso de formularios para cargar archivos al API , según las instrucciones de [Express - Formularios II](https://dawfiec.github.io/DAWM/tutoriales/express_forms2.html).
 
 #### Instalación y Ejecución
 
