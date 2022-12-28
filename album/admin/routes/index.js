@@ -38,22 +38,24 @@ router.post('/photos/save', upload.single('route'), async function(req, res, nex
   let { title, description, rate } = req.body
   let { buffer, originalname } = req.file
 
-  let form = new FormData()
-  form.append("titulo", title)
-  form.append("descripcion", description)
-  form.append("calificacion", rate)
-  form.append("ruta", originalname)
-  form.append("archivo", buffer, originalname)
 
   const URL = 'http://localhost:4444/rest/fotos/save'
+  
+  let data = new FormData()
+  data.append("titulo", title)
+  data.append("descripcion", description)
+  data.append("calificacion", rate)
+  data.append("ruta", originalname)
+  data.append("archivo", buffer, originalname)
+  
   const config = {
-    headers: form.getHeaders(),
+    headers: data.getHeaders(),
     proxy: {
       host: 'localhost',
       port: 4444
     }
   }
-  const response = await axios.post(URL, form, config);
+  const response = await axios.post(URL, data, config);
 
 
   if(response.status == '200' && response.statusText == 'OK') {
