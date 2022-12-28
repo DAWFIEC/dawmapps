@@ -97,6 +97,8 @@ npm i                     #Instale las dependencias
 
 #Modifique la configuración para la conexión con la base de datos
 
+
+sequelize db:drop         #Eliminación del schema
 sequelize db:create       #Creación del schema
 sequelize db:migrate      #Aplique las migraciones
 sequelize db:seed:all     #Genere los datos
