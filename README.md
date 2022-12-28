@@ -85,7 +85,8 @@ npm test                  #Ejecute los tests
 * **[`hito5-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito5-api)** Uso de parámetros de consulta y parámetros de ruta, según las instrucciones de [Express - Parámetros de consulta y Parámetros de ruta](https://dawfiec.github.io/DAWM/tutoriales/express_pcpr.html).
 * **[`hito6-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito6-api)** TDD con Jest: Etiqueta con uso de parámetros de consulta y parámetros de ruta, según las instrucciones de [Capítulo 05/Ejercicio03](https://github.com/DAWFIEC/DAWM/tree/main/Cap%C3%ADtulo%2005/ejercicio03).
 * **[`hito7-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito7-api)** Implementación del API REST del modelo FOTO, según las instrucciones de [Express - REST](https://dawfiec.github.io/DAWM/tutoriales/express_rest.html).
-* **[`hito8-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito8-api)** Carga de archivo, según las instrucciones de [Express - Formularios II](https://dawfiec.github.io/DAWM/tutoriales/express_forms2.html).
+* **[`hito8-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito8-api)** TDD con Jest: FOTO, según las instrucciones de [Capítulo 06/Ejercicio01](https://github.com/DAWFIEC/DAWM/tree/main/Cap%C3%ADtulo%2006/ejercicio01).
+* **[`hito9-api`](https://github.com/DAWFIEC/DAWM-apps/tree/hito9-api)** Carga de archivo, según las instrucciones de [Express - Formularios II](https://dawfiec.github.io/DAWM/tutoriales/express_forms2.html).
 
 #### Instalación y Ejecución
 
