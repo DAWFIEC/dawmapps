@@ -51,7 +51,8 @@ npm test                  #Ejecute los tests
 * **[`hito4-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito4-admin)** Comunicación con la aplicación API, según las instrucciones de [Guía 18](https://dawfiec.github.io/DAWM/guias/guia18.html).
 * **[`hito5-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito5-admin)** Uso de formularios para el envío de datos al API , según las instrucciones de [Express - Formularios I](https://dawfiec.github.io/DAWM/tutoriales/express_forms1.html).
 * **[`hito6-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito6-admin)** Uso de formularios para cargar un archivo en el API , según las instrucciones de [Express - Formularios II](https://dawfiec.github.io/DAWM/tutoriales/express_forms2.html).
-* **[`hito7-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito7-admin)** Autenticación y autorización , según las instrucciones de [Express - Manejo de estados: cookies y sessions](https://dawfiec.github.io/DAWM/tutoriales/express_estados1.html).
+* **[`hito7-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito7-admin)** Autorización y autenticación, según las instrucciones de [Express - Manejo de estados I: Sesión](https://dawfiec.github.io/DAWM/tutoriales/express_estados1.html).
+* **[`hito8-admin`](https://github.com/DAWFIEC/DAWM-apps/tree/hito8-admin)** Rastreo, según las instrucciones de [Express - Manejo de estados II: Cookies](https://dawfiec.github.io/DAWM/tutoriales/express_estados2.html).
 
 #### Instalación y Ejecución
 
