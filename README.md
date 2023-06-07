@@ -5,6 +5,14 @@ Clone el proyecto base, con:
 git clone https://github.com/DAWFIEC/DAWM-apps.git
 ```
 
+## Calculadora
+
+### Frontend
+
+#### Hitos
+
+* **[`hito1-calculadora`](https://github.com/DAWFIEC/DAWM-apps/tree/hito1-calculadora)** esqueleto de frontend con MDBootstrap.
+
 ## Album de fotos
 
 ### Cliente
