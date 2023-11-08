@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book>
+    <ISBN>0195153448</ISBN>
+    <Book-Title>Classical Mythology</Book-Title>
+    <Book-Author>Mark P. O. Morford</Book-Author>
+    <Year-Of-Publication>2002</Year-Of-Publication>
+    <Publisher>Oxford University Press</Publisher>
+  </book>
+  <book>
+    <ISBN>0002005018</ISBN>
+    <Book-Title>Clara Callan</Book-Title>
+    <Book-Author>Richard Bruce Wright</Book-Author>
+    <Year-Of-Publication>2001</Year-Of-Publication>
+    <Publisher>HarperFlamingo Canada</Publisher>
+  </book>
+  <book>
+    <ISBN>0060973129</ISBN>
+    <Book-Title>Decision in Normandy</Book-Title>
+    <Book-Author>Carlo D&apos;Este</Book-Author>
+    <Year-Of-Publication>1991</Year-Of-Publication>
+    <Publisher>HarperPerennial</Publisher>
+  </book>
+  <book>
+    <ISBN>0374157065</ISBN>
+    <Book-Title>Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It</Book-Title>
+    <Book-Author>Gina Bari Kolata</Book-Author>
+    <Year-Of-Publication>1999</Year-Of-Publication>
+    <Publisher>Farrar Straus Giroux</Publisher>
+  </book>
+  <book>
+    <ISBN>0393045218</ISBN>
+    <Book-Title>The Mummies of Urumchi</Book-Title>
+    <Book-Author>E. J. W. Barber</Book-Author>
+    <Year-Of-Publication>1999</Year-Of-Publication>
+    <Publisher>W. W. Norton &amp;amp; Company</Publisher>
+  </book>
+  <book>
+    <ISBN>0399135782</ISBN>
+    <Book-Title>The Kitchen God&apos;s Wife</Book-Title>
+    <Book-Author>Amy Tan</Book-Author>
+    <Year-Of-Publication>1991</Year-Of-Publication>
+    <Publisher>Putnam Pub Group</Publisher>
+  </book>
+  <book>
+    <ISBN>0425176428</ISBN>
+    <Book-Title>What If?: The World&apos;s Foremost Military Historians Imagine What Might Have Been</Book-Title>
+    <Book-Author>Robert Cowley</Book-Author>
+    <Year-Of-Publication>2000</Year-Of-Publication>
+    <Publisher>Berkley Publishing Group</Publisher>
+  </book>
+  <book>
+    <ISBN>0671870432</ISBN>
+    <Book-Title>PLEADING GUILTY</Book-Title>
+    <Book-Author>Scott Turow</Book-Author>
+    <Year-Of-Publication>1993</Year-Of-Publication>
+    <Publisher>Audioworks</Publisher>
+  </book>
+  <book>
+    <ISBN>0679425608</ISBN>
+    <Book-Title>Under the Black Flag: The Romance and the Reality of Life Among the Pirates</Book-Title>
+    <Book-Author>David Cordingly</Book-Author>
+    <Year-Of-Publication>1996</Year-Of-Publication>
+    <Publisher>Random House</Publisher>
+  </book>
+  <book>
+    <ISBN>074322678X</ISBN>
+    <Book-Title>Where You&apos;ll Find Me: And Other Stories</Book-Title>
+    <Book-Author>Ann Beattie</Book-Author>
+    <Year-Of-Publication>2002</Year-Of-Publication>
+    <Publisher>Scribner</Publisher>
+  </book>
+  <book>
+    <ISBN>0771074670</ISBN>
+    <Book-Title>Nights Below Station Street</Book-Title>
+    <Book-Author>David Adams Richards</Book-Author>
+    <Year-Of-Publication>1988</Year-Of-Publication>
+    <Publisher>Emblem Editions</Publisher>
+  </book>
+  <book>
+    <ISBN>080652121X</ISBN>
+    <Book-Title>Hitler&apos;s Secret Bankers: The Myth of Swiss Neutrality During the Holocaust</Book-Title>
+    <Book-Author>Adam Lebor</Book-Author>
+    <Year-Of-Publication>2000</Year-Of-Publication>
+    <Publisher>Citadel Press</Publisher>
+  </book>
+  <book>
+    <ISBN>0887841740</ISBN>
+    <Book-Title>The Middle Stories</Book-Title>
+    <Book-Author>Sheila Heti</Book-Author>
+    <Year-Of-Publication>2004</Year-Of-Publication>
+    <Publisher>House of Anansi Press</Publisher>
+  </book>
+  <book>
+    <ISBN>1552041778</ISBN>
+    <Book-Title>Jane Doe</Book-Title>
+    <Book-Author>R. J. Kaiser</Book-Author>
+    <Year-Of-Publication>1999</Year-Of-Publication>
+    <Publisher>Mira Books</Publisher>
+  </book>
+  <book>
+    <ISBN>1558746218</ISBN>
+    <Book-Title>A Second Chicken Soup for the Woman&apos;s Soul (Chicken Soup for the Soul Series)</Book-Title>
+    <Book-Author>Jack Canfield</Book-Author>
+    <Year-Of-Publication>1998</Year-Of-Publication>
+    <Publisher>Health Communications</Publisher>
+  </book>
+  <book>
+    <ISBN>1567407781</ISBN>
+    <Book-Title>The Witchfinder (Amos Walker Mystery Series)</Book-Title>
+    <Book-Author>Loren D. Estleman</Book-Author>
+    <Year-Of-Publication>1998</Year-Of-Publication>
+    <Publisher>Brilliance Audio - Trade</Publisher>
+  </book>
+  <book>
+    <ISBN>1575663937</ISBN>
+    <Book-Title>More Cunning Than Man: A Social History of Rats and Man</Book-Title>
+    <Book-Author>Robert Hendrickson</Book-Author>
+    <Year-Of-Publication>1999</Year-Of-Publication>
+    <Publisher>Kensington Publishing Corp.</Publisher>
+  </book>
+  <book>
+    <ISBN>1881320189</ISBN>
+    <Book-Title>Goodbye to the Buttermilk Sky</Book-Title>
+    <Book-Author>Julia Oliver</Book-Author>
+    <Year-Of-Publication>1994</Year-Of-Publication>
+    <Publisher>River City Pub</Publisher>
+  </book>
+  <book>
+    <ISBN>0440234743</ISBN>
+    <Book-Title>The Testament</Book-Title>
+    <Book-Author>John Grisham</Book-Author>
+    <Year-Of-Publication>1999</Year-Of-Publication>
+    <Publisher>Dell</Publisher>
+  </book>
+  <book>
+    <ISBN>0452264464</ISBN>
+    <Book-Title>Beloved (Plume Contemporary Fiction)</Book-Title>
+    <Book-Author>Toni Morrison</Book-Author>
+    <Year-Of-Publication>1994</Year-Of-Publication>
+    <Publisher>Plume</Publisher>
+  </book>
+  <book>
+    <ISBN>0609804618</ISBN>
+    <Book-Title>Our Dumb Century: The Onion Presents 100 Years of Headlines from America&apos;s Finest News Source</Book-Title>
+    <Book-Author>The Onion</Book-Author>
+    <Year-Of-Publication>1999</Year-Of-Publication>
+    <Publisher>Three Rivers Press</Publisher>
+  </book>
+  <book>
+    <ISBN>1841721522</ISBN>
+    <Book-Title>New Vegetarian: Bold and Beautiful Recipes for Every Occasion</Book-Title>
+    <Book-Author>Celia Brooks Brown</Book-Author>
+    <Year-Of-Publication>2001</Year-Of-Publication>
+    <Publisher>Ryland Peters &amp;amp; Small Ltd</Publisher>
+  </book>
+  <book>
+    <ISBN>1879384493</ISBN>
+    <Book-Title>If I&apos;d Known Then What I Know Now: Why Not Learn from the Mistakes of Others? : You Can&apos;t Afford to Make Them All Yourself</Book-Title>
+    <Book-Author>J. R. Parrish</Book-Author>
+    <Year-Of-Publication>2003</Year-Of-Publication>
+    <Publisher>Cypress House</Publisher>
+  </book>
+  <book>
+    <ISBN>0061076031</ISBN>
+    <Book-Title>Mary-Kate &amp;amp; Ashley Switching Goals (Mary-Kate and Ashley Starring in)</Book-Title>
+    <Book-Author>Mary-Kate &amp;amp; Ashley Olsen</Book-Author>
+    <Year-Of-Publication>2000</Year-Of-Publication>
+    <Publisher>HarperEntertainment</Publisher>
+  </book>
+  <book>
+    <ISBN>0439095026</ISBN>
+    <Book-Title>Tell Me This Isn&apos;t Happening</Book-Title>
+    <Book-Author>Robynn Clairday</Book-Author>
+    <Year-Of-Publication>1999</Year-Of-Publication>
+    <Publisher>Scholastic</Publisher>
+  </book>
+  <book>
+    <ISBN>0689821166</ISBN>
+    <Book-Title>Flood : Mississippi 1927</Book-Title>
+    <Book-Author>Kathleen Duey</Book-Author>
+    <Year-Of-Publication>1998</Year-Of-Publication>
+    <Publisher>Aladdin</Publisher>
+  </book>
+  <book>
+    <ISBN>0971880107</ISBN>
+    <Book-Title>Wild Animus</Book-Title>
+    <Book-Author>Rich Shapero</Book-Author>
+    <Year-Of-Publication>2004</Year-Of-Publication>
+    <Publisher>Too Far</Publisher>
+  </book>
+  <book>
+    <ISBN>0345402871</ISBN>
+    <Book-Title>Airframe</Book-Title>
+    <Book-Author>Michael Crichton</Book-Author>
+    <Year-Of-Publication>1997</Year-Of-Publication>
+    <Publisher>Ballantine Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0345417623</ISBN>
+    <Book-Title>Timeline</Book-Title>
+    <Book-Author>MICHAEL CRICHTON</Book-Author>
+    <Year-Of-Publication>2000</Year-Of-Publication>
+    <Publisher>Ballantine Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0684823802</ISBN>
+    <Book-Title>OUT OF THE SILENT PLANET</Book-Title>
+    <Book-Author>C.S. Lewis</Book-Author>
+    <Year-Of-Publication>1996</Year-Of-Publication>
+    <Publisher>Scribner</Publisher>
+  </book>
+  <book>
+    <ISBN>0375759778</ISBN>
+    <Book-Title>Prague : A Novel</Book-Title>
+    <Book-Author>ARTHUR PHILLIPS</Book-Author>
+    <Year-Of-Publication>2003</Year-Of-Publication>
+    <Publisher>Random House Trade Paperbacks</Publisher>
+  </book>
+  <book>
+    <ISBN>0425163091</ISBN>
+    <Book-Title>Chocolate Jesus</Book-Title>
+    <Book-Author>Stephan Jaramillo</Book-Author>
+    <Year-Of-Publication>1998</Year-Of-Publication>
+    <Publisher>Berkley Publishing Group</Publisher>
+  </book>
+  <book>
+    <ISBN>3404921038</ISBN>
+    <Book-Title>Wie Barney es sieht.</Book-Title>
+    <Book-Author>Mordecai Richler</Book-Author>
+    <Year-Of-Publication>2002</Year-Of-Publication>
+    <Publisher>L�?¼bbe</Publisher>
+  </book>
+  <book>
+    <ISBN>3442353866</ISBN>
+    <Book-Title>Der Fluch der Kaiserin. Ein Richter- Di- Roman.</Book-Title>
+    <Book-Author>Eleanor Cooney</Book-Author>
+    <Year-Of-Publication>2001</Year-Of-Publication>
+    <Publisher>Goldmann</Publisher>
+  </book>
+  <book>
+    <ISBN>3442410665</ISBN>
+    <Book-Title>Sturmzeit. Roman.</Book-Title>
+    <Book-Author>Charlotte Link</Book-Author>
+    <Year-Of-Publication>1991</Year-Of-Publication>
+    <Publisher>Goldmann</Publisher>
+  </book>
+  <book>
+    <ISBN>3442446937</ISBN>
+    <Book-Title>Tage der Unschuld.</Book-Title>
+    <Book-Author>Richard North Patterson</Book-Author>
+    <Year-Of-Publication>2000</Year-Of-Publication>
+    <Publisher>Goldmann</Publisher>
+  </book>
+  <book>
+    <ISBN>0375406328</ISBN>
+    <Book-Title>Lying Awake</Book-Title>
+    <Book-Author>Mark Salzman</Book-Author>
+    <Year-Of-Publication>2000</Year-Of-Publication>
+    <Publisher>Alfred A. Knopf</Publisher>
+  </book>
+  <book>
+    <ISBN>0446310786</ISBN>
+    <Book-Title>To Kill a Mockingbird</Book-Title>
+    <Book-Author>Harper Lee</Book-Author>
+    <Year-Of-Publication>1988</Year-Of-Publication>
+    <Publisher>Little Brown &amp;amp; Company</Publisher>
+  </book>
+  <book>
+    <ISBN>0449005615</ISBN>
+    <Book-Title>Seabiscuit: An American Legend</Book-Title>
+    <Book-Author>LAURA HILLENBRAND</Book-Author>
+    <Year-Of-Publication>2002</Year-Of-Publication>
+    <Publisher>Ballantine Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0060168013</ISBN>
+    <Book-Title>Pigs in Heaven</Book-Title>
+    <Book-Author>Barbara Kingsolver</Book-Author>
+    <Year-Of-Publication>1993</Year-Of-Publication>
+    <Publisher>Harpercollins</Publisher>
+  </book>
+  <book>
+    <ISBN>038078243X</ISBN>
+    <Book-Title>Miss Zukas and the Raven&apos;s Dance</Book-Title>
+    <Book-Author>Jo Dereske</Book-Author>
+    <Year-Of-Publication>1996</Year-Of-Publication>
+    <Publisher>Avon</Publisher>
+  </book>
+  <book>
+    <ISBN>055321215X</ISBN>
+    <Book-Title>Pride and Prejudice</Book-Title>
+    <Book-Author>Jane Austen</Book-Author>
+    <Year-Of-Publication>1983</Year-Of-Publication>
+    <Publisher>Bantam</Publisher>
+  </book>
+  <book>
+    <ISBN>067176537X</ISBN>
+    <Book-Title>The Therapeutic Touch: How to Use Your Hands to Help or to Heal</Book-Title>
+    <Book-Author>Dolores Krieger</Book-Author>
+    <Year-Of-Publication>1979</Year-Of-Publication>
+    <Publisher>Fireside</Publisher>
+  </book>
+  <book>
+    <ISBN>0061099686</ISBN>
+    <Book-Title>Downtown</Book-Title>
+    <Book-Author>Anne Rivers Siddons</Book-Author>
+    <Year-Of-Publication>1995</Year-Of-Publication>
+    <Publisher>HarperTorch</Publisher>
+  </book>
+  <book>
+    <ISBN>0553582909</ISBN>
+    <Book-Title>Icebound</Book-Title>
+    <Book-Author>Dean R. Koontz</Book-Author>
+    <Year-Of-Publication>2000</Year-Of-Publication>
+    <Publisher>Bantam Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0671888587</ISBN>
+    <Book-Title>I&apos;ll Be Seeing You</Book-Title>
+    <Book-Author>Mary Higgins Clark</Book-Author>
+    <Year-Of-Publication>1994</Year-Of-Publication>
+    <Publisher>Pocket</Publisher>
+  </book>
+  <book>
+    <ISBN>0553582747</ISBN>
+    <Book-Title>From the Corner of His Eye</Book-Title>
+    <Book-Author>Dean Koontz</Book-Author>
+    <Year-Of-Publication>2001</Year-Of-Publication>
+    <Publisher>Bantam Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0425182908</ISBN>
+    <Book-Title>Isle of Dogs</Book-Title>
+    <Book-Author>Patricia Cornwell</Book-Author>
+    <Year-Of-Publication>2002</Year-Of-Publication>
+    <Publisher>Berkley Publishing Group</Publisher>
+  </book>
+  <book>
+    <ISBN>042518630X</ISBN>
+    <Book-Title>Purity in Death</Book-Title>
+    <Book-Author>J.D. Robb</Book-Author>
+    <Year-Of-Publication>2002</Year-Of-Publication>
+    <Publisher>Berkley Publishing Group</Publisher>
+  </book>
+  <book>
+    <ISBN>0440223571</ISBN>
+    <Book-Title>This Year It Will Be Different: And Other Stories</Book-Title>
+    <Book-Author>Maeve Binchy</Book-Author>
+    <Year-Of-Publication>1997</Year-Of-Publication>
+    <Publisher>Dell</Publisher>
+  </book>
+  <book>
+    <ISBN>0812523873</ISBN>
+    <Book-Title>Proxies</Book-Title>
+    <Book-Author>Laura J. Mixon</Book-Author>
+    <Year-Of-Publication>1999</Year-Of-Publication>
+    <Publisher>Tor Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0842342702</ISBN>
+    <Book-Title>Left Behind: A Novel of the Earth&apos;s Last Days (Left Behind #1)</Book-Title>
+    <Book-Author>Tim Lahaye</Book-Author>
+    <Year-Of-Publication>2000</Year-Of-Publication>
+    <Publisher>Tyndale House Publishers</Publisher>
+  </book>
+  <book>
+    <ISBN>0440225701</ISBN>
+    <Book-Title>The Street Lawyer</Book-Title>
+    <Book-Author>JOHN GRISHAM</Book-Author>
+    <Year-Of-Publication>1999</Year-Of-Publication>
+    <Publisher>Dell</Publisher>
+  </book>
+  <book>
+    <ISBN>0060914068</ISBN>
+    <Book-Title>Love, Medicine and Miracles</Book-Title>
+    <Book-Author>M.D. Bernie S. Siegel</Book-Author>
+    <Year-Of-Publication>1988</Year-Of-Publication>
+    <Publisher>HarperCollins Publishers</Publisher>
+  </book>
+  <book>
+    <ISBN>0156047624</ISBN>
+    <Book-Title>All the King&apos;s Men</Book-Title>
+    <Book-Author>Robert Penn Warren</Book-Author>
+    <Year-Of-Publication>1982</Year-Of-Publication>
+    <Publisher>Harvest Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0245542957</ISBN>
+    <Book-Title>Pacific Northwest</Book-Title>
+    <Book-Author>Hans Johannes Hoefer</Book-Author>
+    <Year-Of-Publication>1985</Year-Of-Publication>
+    <Publisher>Chambers Harrap Publishers Ltd</Publisher>
+  </book>
+  <book>
+    <ISBN>0380715899</ISBN>
+    <Book-Title>A Soldier of the Great War</Book-Title>
+    <Book-Author>Mark Helprin</Book-Author>
+    <Year-Of-Publication>1992</Year-Of-Publication>
+    <Publisher>Avon Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0553280333</ISBN>
+    <Book-Title>Getting Well Again</Book-Title>
+    <Book-Author>O. Carol Simonton Md</Book-Author>
+    <Year-Of-Publication>1992</Year-Of-Publication>
+    <Publisher>Bantam</Publisher>
+  </book>
+  <book>
+    <ISBN>0961769947</ISBN>
+    <Book-Title>Northwest Wines and Wineries</Book-Title>
+    <Book-Author>Chuck Hill</Book-Author>
+    <Year-Of-Publication>1993</Year-Of-Publication>
+    <Publisher>Speed Graphics</Publisher>
+  </book>
+  <book>
+    <ISBN>0964778319</ISBN>
+    <Book-Title>An Atmosphere of Eternity: Stories of India</Book-Title>
+    <Book-Author>David Iglehart</Book-Author>
+    <Year-Of-Publication>2002</Year-Of-Publication>
+    <Publisher>Sunflower Press</Publisher>
+  </book>
+  <book>
+    <ISBN>0671623249</ISBN>
+    <Book-Title>LONESOME DOVE</Book-Title>
+    <Book-Author>Larry McMurtry</Book-Author>
+    <Year-Of-Publication>1986</Year-Of-Publication>
+    <Publisher>Pocket</Publisher>
+  </book>
+  <book>
+    <ISBN>0679810307</ISBN>
+    <Book-Title>Shabanu: Daughter of the Wind (Border Trilogy)</Book-Title>
+    <Book-Author>SUZANNE FISHER STAPLES</Book-Author>
+    <Year-Of-Publication>1991</Year-Of-Publication>
+    <Publisher>Laurel Leaf</Publisher>
+  </book>
+  <book>
+    <ISBN>0679865691</ISBN>
+    <Book-Title>Haveli (Laurel Leaf Books)</Book-Title>
+    <Book-Author>SUZANNE FISHER STAPLES</Book-Author>
+    <Year-Of-Publication>1995</Year-Of-Publication>
+    <Publisher>Laurel Leaf</Publisher>
+  </book>
+  <book>
+    <ISBN>2070423204</ISBN>
+    <Book-Title>Lieux dits</Book-Title>
+    <Book-Author>Michel Tournier</Book-Author>
+    <Year-Of-Publication>2002</Year-Of-Publication>
+    <Publisher>Gallimard</Publisher>
+  </book>
+  <book>
+    <ISBN>0345260317</ISBN>
+    <Book-Title>The Dragons of Eden: Speculations on the Evolution of Human Intelligence</Book-Title>
+    <Book-Author>Carl Sagan</Book-Author>
+    <Year-Of-Publication>1978</Year-Of-Publication>
+    <Publisher>Ballantine Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0394743741</ISBN>
+    <Book-Title>The yawning heights</Book-Title>
+    <Book-Author>Aleksandr Zinoviev</Book-Author>
+    <Year-Of-Publication>1980</Year-Of-Publication>
+    <Publisher>Random House</Publisher>
+  </book>
+  <book>
+    <ISBN>042511774X</ISBN>
+    <Book-Title>Breathing Lessons</Book-Title>
+    <Book-Author>Anne Tyler</Book-Author>
+    <Year-Of-Publication>1994</Year-Of-Publication>
+    <Publisher>Berkley Publishing Group</Publisher>
+  </book>
+  <book>
+    <ISBN>0804106304</ISBN>
+    <Book-Title>The Joy Luck Club</Book-Title>
+    <Book-Author>Amy Tan</Book-Author>
+    <Year-Of-Publication>1994</Year-Of-Publication>
+    <Publisher>Prentice Hall (K-12)</Publisher>
+  </book>
+  <book>
+    <ISBN>1853262404</ISBN>
+    <Book-Title>Heart of Darkness (Wordsworth Collection)</Book-Title>
+    <Book-Author>Joseph Conrad</Book-Author>
+    <Year-Of-Publication>1998</Year-Of-Publication>
+    <Publisher>NTC/Contemporary Publishing Company</Publisher>
+  </book>
+  <book>
+    <ISBN>0312970242</ISBN>
+    <Book-Title>The Angel Is Near</Book-Title>
+    <Book-Author>Deepak Chopra</Book-Author>
+    <Year-Of-Publication>2000</Year-Of-Publication>
+    <Publisher>St. Martin&apos;s Press</Publisher>
+  </book>
+  <book>
+    <ISBN>1853260053</ISBN>
+    <Book-Title>Tess of the D&apos;Urbervilles (Wordsworth Classics)</Book-Title>
+    <Book-Author>Thomas Hardy</Book-Author>
+    <Year-Of-Publication>1997</Year-Of-Publication>
+    <Publisher>NTC/Contemporary Publishing Company</Publisher>
+  </book>
+  <book>
+    <ISBN>1414035004</ISBN>
+    <Book-Title>The Adventures of Drew and Ellie: The Magical Dress</Book-Title>
+    <Book-Author>Charles Noland</Book-Author>
+    <Year-Of-Publication>2003</Year-Of-Publication>
+    <Publisher>1stBooks Library</Publisher>
+  </book>
+  <book>
+    <ISBN>0060938412</ISBN>
+    <Book-Title>The Accidental Virgin</Book-Title>
+    <Book-Author>Valerie Frankel</Book-Author>
+    <Year-Of-Publication>2003</Year-Of-Publication>
+    <Publisher>Avon Trade</Publisher>
+  </book>
+  <book>
+    <ISBN>0140067477</ISBN>
+    <Book-Title>The Tao of Pooh</Book-Title>
+    <Book-Author>Benjamin Hoff</Book-Author>
+    <Year-Of-Publication>1983</Year-Of-Publication>
+    <Publisher>Penguin Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0345465083</ISBN>
+    <Book-Title>Seabiscuit</Book-Title>
+    <Book-Author>LAURA HILLENBRAND</Book-Author>
+    <Year-Of-Publication>2003</Year-Of-Publication>
+    <Publisher>Ballantine Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0451625889</ISBN>
+    <Book-Title>The Prince</Book-Title>
+    <Book-Author>Niccolo Machiavelli</Book-Author>
+    <Year-Of-Publication>1952</Year-Of-Publication>
+    <Publisher>Signet Book</Publisher>
+  </book>
+  <book>
+    <ISBN>1558531025</ISBN>
+    <Book-Title>Life&apos;s Little Instruction Book (Life&apos;s Little Instruction Books (Paperback))</Book-Title>
+    <Book-Author>H. Jackson Brown</Book-Author>
+    <Year-Of-Publication>1991</Year-Of-Publication>
+    <Publisher>Thomas Nelson</Publisher>
+  </book>
+  <book>
+    <ISBN>0441783589</ISBN>
+    <Book-Title>Starship Troopers</Book-Title>
+    <Book-Author>Robert A. Heinlein</Book-Author>
+    <Year-Of-Publication>1987</Year-Of-Publication>
+    <Publisher>Ace Books</Publisher>
+  </book>
+  <book>
+    <ISBN>0394895894</ISBN>
+    <Book-Title>The Ruby in the Smoke (Sally Lockhart Trilogy, Book 1)</Book-Title>
+    <Book-Author>PHILIP PULLMAN</Book-Author>
+    <Year-Of-Publication>1988</Year-Of-Publication>
+    <Publisher>Laurel Leaf</Publisher>
+  </book>
+  <book>
+    <ISBN>1569871213</ISBN>
+    <Book-Title>Black Beauty (Illustrated Classics)</Book-Title>
+    <Book-Author>Anna Sewell</Book-Author>
+    <Year-Of-Publication>1995</Year-Of-Publication>
+    <Publisher>Landoll</Publisher>
+  </book>
+  <book>
+    <ISBN>0375410538</ISBN>
+    <Book-Title>Anil&apos;s Ghost</Book-Title>
+    <Book-Author>MICHAEL ONDAATJE</Book-Author>
+    <Year-Of-Publication>2000</Year-Of-Publication>
+    <Publisher>Knopf</Publisher>
+  </book>
+  <book>
+    <ISBN>0966986105</ISBN>
+    <Book-Title>Prescription for Terror</Book-Title>
+    <Book-Author>Sandra Levy Ceren</Book-Author>
+    <Year-Of-Publication>1999</Year-Of-Publication>
+    <Publisher>Andrew Scott Publishers</Publisher>
+  </book>
+  <book>
+    <ISBN>087113375X</ISBN>
+    <Book-Title>Modern Manners: An Etiquette Book for Rude People</Book-Title>
+    <Book-Author>P.J. O&apos;Rourke</Book-Author>
+    <Year-Of-Publication>1990</Year-Of-Publication>
+    <Publisher>Atlantic Monthly Press</Publisher>
+  </book>
+  <book>
+    <ISBN>0340767936</ISBN>
+    <Book-Title>Turning Thirty</Book-Title>
+    <Book-Author>Mike Gayle</Book-Author>
+    <Year-Of-Publication>2000</Year-Of-Publication>
+    <Publisher>Hodder &amp;amp; Stoughton General Division</Publisher>
+  </book>
+  <book>
+    <ISBN>0743403843</ISBN>
+    <Book-Title>Decipher</Book-Title>
+    <Book-Author>Stel Pavlou</Book-Author>
+    <Year-Of-Publication>2002</Year-Of-Publication>
+    <Publisher>Simon &amp;amp; Schuster (Trade Division)</Publisher>
+  </book>
+  <book>
+    <ISBN>0060930365</ISBN>
+    <Book-Title>My First Cousin Once Removed: Money, Madness, and the Family of Robert Lowell</Book-Title>
+    <Book-Author>Sarah Payne Stuart</Book-Author>
+    <Year-Of-Publication>1999</Year-Of-Publication>
+    <Publisher>Perennial</Publisher>
+  </book>
+  <book>
+    <ISBN>0060177586</ISBN>
+    <Book-Title>Standing Firm: A Vice-Presidential Memoir</Book-Title>
+    <Book-Author>Dan Quayle</Book-Author>
+    <Year-Of-Publication>1994</Year-Of-Publication>
+    <Publisher>Harpercollins</Publisher>
+  </book>
+  <book>
+    <ISBN>0071416331</ISBN>
+    <Book-Title>Team Bush : Leadership Lessons from the Bush White House</Book-Title>
+    <Book-Author>Donald F. Kettl</Book-Author>
+    <Year-Of-Publication>2003</Year-Of-Publication>
+    <Publisher>McGraw-Hill</Publisher>
+  </book>
+  <book>
+    <ISBN>0375509038</ISBN>
+    <Book-Title>The Right Man : The Surprise Presidency of George W. Bush</Book-Title>
+    <Book-Author>DAVID FRUM</Book-Author>
+    <Year-Of-Publication>2003</Year-Of-Publication>
+    <Publisher>Random House</Publisher>
+  </book>
+  <book>
+    <ISBN>0553062042</ISBN>
+    <Book-Title>Daybreakers Louis Lamour Collection</Book-Title>
+    <Book-Author>Louis Lamour</Book-Author>
+    <Year-Of-Publication>1981</Year-Of-Publication>
+    <Publisher>Bantam Doubleday Dell</Publisher>
+  </book>
+  <book>
+    <ISBN>0316769487</ISBN>
+    <Book-Title>The Catcher in the Rye</Book-Title>
+    <Book-Author>J.D. Salinger</Book-Author>
+    <Year-Of-Publication>1991</Year-Of-Publication>
+    <Publisher>Little, Brown</Publisher>
+  </book>
+  <book>
+    <ISBN>8445071408</ISBN>
+    <Book-Title>El Senor De Los Anillos: LA Comunidad Del Anillo (Lord of the Rings (Spanish))</Book-Title>
+    <Book-Author>J. R. R. Tolkien</Book-Author>
+    <Year-Of-Publication>2001</Year-Of-Publication>
+    <Publisher>Minotauro</Publisher>
+  </book>
+  <book>
+    <ISBN>8445071769</ISBN>
+    <Book-Title>El Senor De Los Anillos: Las DOS Torres (Lord of the Rings (Paperback))</Book-Title>
+    <Book-Author>J. R. R. Tolkien</Book-Author>
+    <Year-Of-Publication>2001</Year-Of-Publication>
+    <Publisher>Minotauro</Publisher>
+  </book>
+  <book>
+    <ISBN>8445071777</ISBN>
+    <Book-Title>El Senor De Los Anillos: El Retorno Del Rey (Tolkien, J. R. R. Lord of the Rings. 3.)</Book-Title>
+    <Book-Author>J. R. R. Tolkien</Book-Author>
+    <Year-Of-Publication>2001</Year-Of-Publication>
+    <Publisher>Distribooks</Publisher>
+  </book>
+  <book>
+    <ISBN>0679429220</ISBN>
+    <Book-Title>Midnight in the Garden of Good and Evil: A Savannah Story</Book-Title>
+    <Book-Author>John Berendt</Book-Author>
+    <Year-Of-Publication>1994</Year-Of-Publication>
+    <Publisher>Random House</Publisher>
+  </book>
+  <book>
+    <ISBN>0671867156</ISBN>
+    <Book-Title>Pretend You Don&apos;t See Her</Book-Title>
+    <Book-Author>Mary Higgins Clark</Book-Author>
+    <Year-Of-Publication>1998</Year-Of-Publication>
+    <Publisher>Pocket</Publisher>
+  </book>
+  <book>
+    <ISBN>0312252617</ISBN>
+    <Book-Title>Fast Women</Book-Title>
+    <Book-Author>Jennifer Crusie</Book-Author>
+    <Year-Of-Publication>2001</Year-Of-Publication>
+    <Publisher>St. Martin&apos;s Press</Publisher>
+  </book>
+  <book>
+    <ISBN>0312261594</ISBN>
+    <Book-Title>Female Intelligence</Book-Title>
+    <Book-Author>Jane Heller</Book-Author>
+    <Year-Of-Publication>2001</Year-Of-Publication>
+    <Publisher>St. Martin&apos;s Press</Publisher>
+  </book>
+  <book>
+    <ISBN>0316748641</ISBN>
+    <Book-Title>Pasquale&apos;s Nose: Idle Days in an Italian Town</Book-Title>
+    <Book-Author>Michael Rips</Book-Author>
+    <Year-Of-Publication>2002</Year-Of-Publication>
+    <Publisher>Back Bay Books</Publisher>
+  </book>
+</bookstore>
